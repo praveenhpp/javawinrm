@@ -1,6 +1,6 @@
 package com.javawinrm.winrm;
 
-public class RtProtocolBuilder implements ProtocolBuilder {
+class RtProtocolBuilder implements ProtocolBuilder {
 
     private String endPoint;
     private String username;

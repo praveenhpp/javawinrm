@@ -1,6 +1,6 @@
 package com.javawinrm.winrm;
 
-public class RtTransportBuilder implements TransportBuilder {
+class RtTransportBuilder implements TransportBuilder {
 
     private String endPoint;
     private String username;

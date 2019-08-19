@@ -1,6 +1,6 @@
 package com.javawinrm.winrm;
 
-public class RtSession implements  Session{
+class RtSession implements  Session{
 
     private Protocol protocol;
     RtSession(Protocol protocol){
